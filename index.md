@@ -16,9 +16,6 @@ email: ["cmcurry@ou.edu"]    # boxed, comma-separated list of contact email addr
 collaborative_notes: "https://pad.carpentries.org/2019-12-18-ou-swc"           # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 83864764769          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
-{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-
 {% comment %}
 HEADER
 
@@ -28,11 +25,6 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-
-
-{% comment %}
-For a workshop please delete the following block
-{% endcomment %}
 
 
 {% comment %}
